@@ -3,9 +3,11 @@ import React from 'react'
 function App() {
 
   return (
-    <div className="">
-      wwww
-    </div>
+    <h1
+      // className="w-screen h-screen bg-red"
+    >
+      wwwwdwadawkmidmkdawkdw
+    </h1>
   )
 }
 
