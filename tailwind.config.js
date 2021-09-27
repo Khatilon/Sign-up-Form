@@ -11,6 +11,10 @@ module.exports = {
           DEFAULT: '#5E54A4',
           dark: '#3D3B48' 
         },
+      },
+      boxShadow: {
+        DEFAULT: `0px 8px 0px rgba(0, 0, 0, 0.14688)`,
+        solid: `box-shadow: inset 0px -4px 0px rgba(0, 0, 0, 0.0908818)`
       }
     },
   },
